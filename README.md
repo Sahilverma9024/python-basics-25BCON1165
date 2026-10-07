@@ -1,21 +1,31 @@
-# Python Basics
+Python Basics
+This repository contains basic Python programs created as part of the Prompt Engineering course assignment.
 
-This repository contains basic Python programs for beginners. It covers common programming concepts such as factorial, Fibonacci series, palindrome checking, prime numbers, even/odd checking, and student information.
+Programs
+1. factorial.py
+Calculates the factorial of a given number.
 
-## Programs
+2. fibonacci.py
+Generates the Fibonacci series for the requested number of terms.
 
-| File | Description |
-|---|---|
-| `factorial.py` | Calculates the factorial of a number |
-| `fibonacci.py` | Generates a Fibonacci series |
-| `structure.py` | Stores and displays student information |
-| `even_odd.py` | Checks whether a number is even or odd |
-| `prime.py` | Checks whether a number is prime |
-| `palindrome.py` | Checks whether a number/string is a palindrome |
+3. structure.py
+Stores and displays student information.
 
-## How to Run
+4. even_odd.py
+Checks whether a given number is even or odd.
 
-Make sure Python is installed on your computer.
+5. prime.py
+Checks whether a given number is prime.
 
-```bash
-python filename.py
+6. palindrome.py
+Checks whether a string or number is a palindrome.
+
+How to Run
+Run the programs using Python:
+
+python factorial.py
+python fibonacci.py
+python structure.py
+python even_odd.py
+python prime.py
+python palindrome.py
