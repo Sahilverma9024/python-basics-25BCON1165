@@ -1,36 +1,32 @@
+# Audit Report
 
-# Python Basics
+## Project Name
+Python Basics
 
-This repository contains basic Python programs created as part of the Prompt Engineering course assignment.
+## Student Details
+Name: Sahil Verma
+University: JECRC University
+Course: CSE AI DS
 
-## Programs
+## Files Audited
 
-### 1. factorial.py
-Calculates the factorial of a given number.
+| File | Purpose | Status |
+|------|---------|--------|
+| factorial.py | Calculates factorial | Passed |
+| fibonacci.py | Generates Fibonacci series | Passed |
+| structure.py | Stores and displays student information | Passed |
+| even_odd.py | Checks whether a number is even or odd | Passed |
 
-### 2. fibonacci.py
-Generates the Fibonacci series for the requested number of terms.
+## Audit Checklist
 
-### 3. structure.py
-Stores and displays student information.
+- [x] Python files are present
+- [x] Programs are executable
+- [x] Basic input/output is working
+- [x] README file is available
+- [x] Repository structure is organized
+- [x] Code is uploaded to GitHub
 
-### 4. even_odd.py
-Checks whether a given number is even or odd.
+## Conclusion
 
-### 5. prime.py
-Checks whether a given number is prime.
-
-### 6. palindrome.py
-Checks whether a string or number is a palindrome.
-
-## How to Run
-
-Run the programs using Python:
-
-```bash
-python factorial.py
-python fibonacci.py
-python structure.py
-python even_odd.py
-python prime.py
-python palindrome.py
+All listed Python programs were reviewed and uploaded successfully.
+The repository is organized and ready for submission.
